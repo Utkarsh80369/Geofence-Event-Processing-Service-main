@@ -44,5 +44,5 @@ Ensure you have the following installed:
 
 ### 2. Clone the Repository
 ```bash
-git clone [)
+git clone [https://github.com/Utkarsh80369/Geofence-Event-Processing-Service-main)
 cd geofence-service
